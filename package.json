@@ -1,0 +1,35 @@
+{
+  "name": "file-opener-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for opening files with system default applications",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "mcp", 
+    "file-opener", 
+    "system", 
+    "macos",
+    "model-context-protocol",
+    "claude"
+  ],
+  "author": "Mark Murphy <richardmarkmurphy@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardmarkmurphy/file-opener-mcp.git"
+  },
+  "homepage": "https://github.com/richardmarkmurphy/file-opener-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/richardmarkmurphy/file-opener-mcp/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
