@@ -20,7 +20,7 @@ npm install -g file-opener-mcp
 ### From Source
 1. Clone the repository:
    ```bash
-   git clone https://github.com/richardmarkmurphy/file-opener-mcp.git
+   git clone https://github.com/TIMBOTGPT/file-opener-mcp.git
    cd file-opener-mcp
    ```
 
@@ -77,7 +77,7 @@ Opens a file or directory with the system's default application, or optionally w
 {
   "name": "open_file",
   "arguments": {
-    "path": "/Users/mark/Documents/report.pdf",
+    "path": "/path/to/documents/report.pdf",
     "application": "Preview"
   }
 }
@@ -94,7 +94,7 @@ Reveals a file or directory in macOS Finder.
 {
   "name": "reveal_in_finder",
   "arguments": {
-    "path": "/Users/mark/Documents/report.pdf"
+    "path": "/path/to/documents/report.pdf"
   }
 }
 ```
@@ -126,4 +126,4 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-For issues and questions, please use the [GitHub Issues](https://github.com/richardmarkmurphy/file-opener-mcp/issues) page.
+For issues and questions, please use the [GitHub Issues](https://github.com/TIMBOTGPT/file-opener-mcp/issues) page.

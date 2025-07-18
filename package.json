@@ -16,15 +16,15 @@
     "model-context-protocol",
     "claude"
   ],
-  "author": "Mark Murphy <richardmarkmurphy@gmail.com>",
+  "author": "TIMBOTGPT",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/richardmarkmurphy/file-opener-mcp.git"
+    "url": "https://github.com/TIMBOTGPT/file-opener-mcp.git"
   },
-  "homepage": "https://github.com/richardmarkmurphy/file-opener-mcp#readme",
+  "homepage": "https://github.com/TIMBOTGPT/file-opener-mcp#readme",
   "bugs": {
-    "url": "https://github.com/richardmarkmurphy/file-opener-mcp/issues"
+    "url": "https://github.com/TIMBOTGPT/file-opener-mcp/issues"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^0.4.0"
